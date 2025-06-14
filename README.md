@@ -35,3 +35,5 @@ Here's a breakdown of the notebooks available and the concepts they cover:
 *   **Experiment:** The best way to learn prompting is to experiment.
 *   **Iterate:** Prompt engineering is often an iterative process.
 *   **Explore Other Techniques:** The "Next steps" section of many of these notebooks encourages exploring other examples in the repository.
+
+* **[`Story_Orchestrator_Full.ipynb`](./Story_Orchestrator_Full.ipynb):** Full workflow orchestrator for generating a multi-branch thriller narrative using Gemini. Uses the `GEMINI_API_KEY` environment variable if set, otherwise falls back to a temporary demo key.
